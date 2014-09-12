@@ -45,27 +45,27 @@ This repository will hold all the documentation, examples and wikis about the fr
 ## Workshops list
 
 * **Slideshow / Carousel** workshop
-* Menus workshop
-* Masonry workshop
-* Animation & transition workshop
-* 3D workshop
-* Svg workshop
-* HTML5 Game Development workshop
-* Video workshop
-* Sound workshop
-* Form elements workshop
-* Positioning elements workshop
-* Parallax workshop
-* Flexbox workshop
-* Side menu workshop
-* Page preloading workshop
-* Drag and drop workshop
-* Hover styles workshop
-* Page transition workshop
-* Sticky(footer, header) workshop
-* Twbootstrap workshop
-* Focus workshop
-* Custom components workshop (checkboxes, selects, radiobuttons)
+* **Menus** workshop
+* **Masonry** workshop
+* **Animation** & **transition** workshop
+* **3D** workshop
+* **Svg** workshop
+* **HTML5 Game** Development workshop
+* **Video** workshop
+* **Sound** workshop
+* **Forms** workshop
+* **Positioning elements** workshop
+* **Parallax** workshop
+* **Flexbox** workshop
+* **Side menu** workshop
+* **Page preloading** workshop
+* **Drag and drop** workshop
+* **Hover styles** workshop
+* **Page transition** workshop
+* **Sticky**(footer, header) workshop
+* **Twbootstrap** workshop
+* **Focus** workshop
+* **Custom components** workshop (checkboxes, selects, radiobuttons)
 
 ## People list
 
