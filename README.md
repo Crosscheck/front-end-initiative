@@ -40,7 +40,7 @@ This repository will hold all the documentation, examples and wikis about the fr
 * Documentation based on octopress.
 * react.js
 * Front end code performance (jsperf, etc.)
-
+* Webpage performance, PageSpeedInsights
 
 ## Workshops list
 
