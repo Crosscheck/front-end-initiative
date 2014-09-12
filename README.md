@@ -5,11 +5,11 @@ This repository will hold all the documentation, examples and wikis about the fr
 
 ## Agenda - 2 to 3 hours
 
-1. ###### Intro & Recap previous week (+- 15min)
-2. ###### General problems and solutions, can be anything related toe (+- 30min)
-3. ###### Boilerplate remarks and improvement brainstorm session (+- 30min)
-4. ###### Topics, workshops and FAQS (+- 90min)
-5. ###### Closing & Report (+- 10min)
+1. **Intro & Recap previous week** (+- 15min)
+2. **General problems and solutions, can be anything related toe** (+- 30min)
+3. **Boilerplate remarks and improvement brainstorm session** (+- 30min)
+4. **Topics, workshops and FAQS** (+- 90min)
+5. **Closing & Report** (+- 10min)
 
 
 ## Topic list
