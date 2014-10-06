@@ -22,9 +22,9 @@
 
 ### UNRELATED TO BOILERPLATE
 
-* Vagrant compiling latency issue oplossen met Seb (ROBBIE)
-* Front-end checklist template in confluence of iets anders (DRIES)
-* Custom blocks, custom code, aanzet tot een voorbeeld project waar we uit kunnen leren,<br>
+- [ ] Vagrant compiling latency issue oplossen met Seb (ROBBIE)
+- [ ] Front-end checklist template in confluence of iets anders (DRIES)
+- [ ] Custom blocks, custom code, aanzet tot een voorbeeld project waar we uit kunnen leren,<br>
 best practices waar front- en back-enders niet in elkaars vaarwater hoeven te gaan coderen. (MAARTEN & DRIES)
 
 
