@@ -5,8 +5,8 @@
   * boilerplate problemen en introductie
     * een snelle intro over de boilerplate
     * syntax problemen (coffeescript, scss)
-    * omega subtheming besproken (We bliljven voorlopig werken op 2 branches, een clean slate branch en een omega4 subtheme branch)
-    * De betrokken personen hebben nu hun github account en zijn gelinkt aan het crosscheck team
+    * omega subtheming besproken (We bllijven voorlopig werken op 2 branches, een clean slate branch en een omega4 subtheme branch)
+    * De betrokken personen hebben nu hun Github account en zijn gelinkt aan het Crosscheck team
     * de tekortkomingen en issues overlopen van de boilerplate
 
   * open discussie
@@ -38,5 +38,5 @@ Kleinere issues kunnen eventueel voortgroeien uit de grote issues.<br>
 Als er issues gespot worden of toevoegingen zouden zijn, graag toevoegen.<br>
 
 Normaal kan iedereen [issues](https://github.com/Crosscheck/drupal-theme-boilerplate/issues) maken.<br>
-Agenda voor volgende meeting volgt, suggesties en initiatieven zijn welkom.<br>
+[Agenda](https://github.com/Crosscheck/front-end-initiative/blob/master/24-10-2014/Agenda.md) voor volgende meeting volgt, suggesties en initiatieven zijn welkom.<br>
 Kijk gerust is in de lijst op de home [README](https://github.com/Crosscheck/front-end-initiative) voor inspiratie.
