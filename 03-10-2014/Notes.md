@@ -1,4 +1,4 @@
-# Front end initiative 03-10-2014
+# Front-end initiative 03-10-2014
 
 ## Agenda
 
