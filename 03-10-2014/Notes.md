@@ -30,7 +30,7 @@ best practices waar front- en back-enders niet in elkaars vaarwater hoeven te ga
 
 ### Boilerplate
 
-- [ ] Js en Scss in plaats van Coffeescript en Sass (ROBBIE: [issue-6](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/6), [issue-7](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/7) en [issue-8](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/8))
+- [x] Js en Scss in plaats van Coffeescript en Sass (ROBBIE: [issue-6](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/6), [issue-7](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/7) en [issue-8](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/8))
 - [ ] Preprocessors, template.php (Algeron, Ruben: [issue-5](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/5) en [issue-4](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/4))
 <br><br>
 
