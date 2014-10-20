@@ -24,8 +24,8 @@
 
 
   * Pt. 2 (werkgroepen) **(+- 1h30m)**
-    * Maarten & Dries (**Simple drupal app** From Back to front end)
-    * Algeron & Ruben (**Documen / Report / Howto's / tips** Drupal php theming: hooks, preproccessors, templates.)
+    * Maarten & Dries (**Simple drupal app** From Back to Front end)
+    * Algeron & Ruben (**Document / Report / Howto's / tips** Drupal php theming: hooks, preproccessors, templates.)
     * Robbie & Sarah (**Demo** Creating a simple carroussel / slideshow from scratch)
 
 
