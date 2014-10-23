@@ -15,6 +15,7 @@
       * General problems and solutions
         * msf js issues (volgorde problemen, forEach)
         * css3 pie
+        * matchmedia (how to launch js functionalities based on media queries)
         * VarnishCache Drupalcache Browsercache
         
       * Topics / workshops
