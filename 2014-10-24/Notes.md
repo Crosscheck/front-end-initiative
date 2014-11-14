@@ -1,5 +1,11 @@
 # Front end initiative 2014-10-24
 
+## Attendees
+  * Robbie
+  * Sarah
+  * Dries
+  * Maarten
+
 ## Agenda & Notes
 
   * Recap 03-10-2014 **(+- 2h)**
