@@ -15,10 +15,13 @@
     * [issues](https://github.com/Crosscheck/drupal-theme-boilerplate/issues) recap 
 
   * General problems and solutions open discussion
-    * msf js issues (volgorde problemen, [Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach))
-    * css3 pie
-    * matchmedia (how to launch js functionalities based on media queries)
-    * VarnishCache Drupalcache Browsercache
+    * msf order of code issues (see **order of programming plus bad practice** folder, [Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach))
+    * css3 [pie](http://css3pie.com/)
+      **!!Important <br>
+      Does not work on compass: border-top-radius($radius), border-left-radius($radius), border-bottom-radius($radius), border-right-radius($radius)**
+
+    * [matchmedia](https://github.com/paulirish/matchMedia.js/) (how to launch js functionalities based on media queries)
+    * VarnishCache Drupalcache Browsercache discussion
     
     * tools
         * [sass](http://jackiebalzer.com/color) colors 

@@ -15,4 +15,7 @@
   * Pt. 2 (werkgroepen)
     * Robbie & Charlotte (**Introduction** [links](https://dl.dropboxusercontent.com/u/7422112/always/usefull_links_list.html) recap)
     
-    * Ruben (**to choose form tracks**)
+    * Ruben (* Doc / Report on Drupal 7 theming from back-end point of view (hooks, preproccessors, templates) **2p**)
+
+
+
