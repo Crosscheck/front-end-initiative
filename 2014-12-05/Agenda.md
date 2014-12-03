@@ -31,6 +31,7 @@
 
   * Dries: FireBase
   * Maarten: Headless drupal / drupal rest api
+  * Algeron: TypeScript & JS refactoring
   * Robbie: Yeoman, bower
     * yeoman generator for easy installation of the boilerplate
   * extra topics: pageres, nodegh, perfmap, microjs.com
