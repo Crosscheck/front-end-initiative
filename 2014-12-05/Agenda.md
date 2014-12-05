@@ -19,6 +19,8 @@
   * Boilerplate issues
       * [issues](https://github.com/Crosscheck/drupal-theme-boilerplate/issues) recap
       * [issue-35](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/35) Compass issue
+      * [issue-37](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/37) Compile theme
+      * [issue-36](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/36) Clean mixin
       * [issue-33](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/33) Handle minified files based on env
       * [issue-19](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/19) to bower or not to bower
       * [issue-15](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/15) scss linter
@@ -28,6 +30,7 @@
   * To be merged
     * [pull/34](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/34)
     * [pull/32](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/32)
+    * [pull/38](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/38)
 
   * Dries: FireBase
   * Maarten: Headless drupal / drupal rest api
