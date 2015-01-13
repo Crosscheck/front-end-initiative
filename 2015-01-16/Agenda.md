@@ -40,7 +40,8 @@
   * extra topics: 
     * pagespeed insights & performance (npm install -g psi)
     * sitemap based screenshots ,
-    * http://toolness.github.io/slowmo-js/,http://tools.css3.info/selectors-test/test.html
+    * http://toolness.github.io/slowmo-js/
+    * http://tools.css3.info/selectors-test/test.html
     * https://github.com/filamentgroup/grunt-criticalcss
     * npm install webpagetest -g
     * npm install grunt-perfbudget
