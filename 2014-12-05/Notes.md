@@ -57,7 +57,6 @@
         * no more renaming files in the beginning
 
 
-
 ### Pageres
   * take screenshots from the terminal
   * [github](https://github.com/sindresorhus/pageres)
@@ -67,7 +66,6 @@
   * [github](https://github.com/node-gh/gh)
 
 ### Perfmap
-
   * A bookmarklet and Chrome extension to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API. A browser with support for the Resource Timing API is required.
   * [github](https://github.com/zeman/perfmap)
 
