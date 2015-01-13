@@ -13,7 +13,8 @@
   * yeoman generator
 
 ### Firebase - Build Realtime Apps - By Dries
-
+ * Firebase is a realtime backend as a service that allows you to create incredible apps. Save, Store and Update Data in realtime directly from the browser or mobile client using only javascript or native iOS or Android code.
+ * You can import your own JSON data file, or export the by GUI made JSON data structure.
  * [github](https://github.com/firebase)
  * [docs](https://www.firebase.com/docs/)
 
