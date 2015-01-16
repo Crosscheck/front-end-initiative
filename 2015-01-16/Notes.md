@@ -3,11 +3,11 @@
   
 ### boilerplate
   * 3 [releases](https://github.com/Crosscheck/drupal-theme-boilerplate/releases)
-  * 
+  * new [issues](https://github.com/Crosscheck/drupal-theme-boilerplate/issues) 19 total
 
 ### Scsslinting
   * Project scss health
-  * Everyone on the team codes the same
+  * Everyone on the team is enforced to code in the same way
   * [scss-lint](https://github.com/causes/scss-lint) is a Ruby gem
   * grunt configuration [options](https://github.com/ahmednuaman/grunt-scss-lint)
   * see [option](https://github.com/causes/scss-lint/blob/master/lib/scss_lint/linter/README.md) list
@@ -25,6 +25,8 @@
 
   * For template debugging
   * should only be enabled on dev
+  * theme developer
+  * drupal 8 twig debug
 
     <?php if( theme_get_setting('themer_helper') ) : ?>
       <?php print __FILE__; ?>
@@ -35,7 +37,10 @@
   * Inspect scss files in dev mode
   * setup in [browsers](http://thesassway.com/intermediate/using-source-maps-with-sass)
 
-### Scss 3.4.x
+
+### Sass 3.4.x
+  * [changelog](http://sass-lang.com/documentation/file.SASS_CHANGELOG.html)
+
 
 ### layout rules split up
   * advantages
@@ -79,11 +84,10 @@
       }
 ```
 
-### Drupal 8 doc 
+### Drupal 8 doc by Sander
   * [documentation] (https://github.com/sqndr/d8-theming-guide)
 
 ### Performance
-  
-  * Adv agg module
-  * page speed insights in grunt task
-  * minify of speedy module
+  * [Advagg](https://www.drupal.org/project/advagg) module
+  * [page speed insights](https://github.com/Crosscheck/drupal-theme-boilerplate/issues/43) in grunt task
+  * [minify](https://www.drupal.org/project/minify) of speedy module
