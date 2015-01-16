@@ -16,15 +16,11 @@
     * Maarten: Headless drupal / drupal rest api
     * Algeron: TypeScript & JS refactoring
     * Robbie: Yeoman, bower
-      * yeoman generator for easy installation of the boilerplate
-    * extra topics: pageres, nodegh, perfmap, microjs.com
-
 
   * Boilerplate recent merges
     * [Scsslinting](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/40)
     * [Themespecification](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/38)
     * [sourcemaps](https://github.com/Crosscheck/drupal-theme-boilerplate/pull/34)
-    
   
   * Boilerplate issues
     * [all issues](https://github.com/Crosscheck/drupal-theme-boilerplate/issues) 
@@ -39,7 +35,7 @@
 
   * extra topics: 
     * pagespeed insights & performance (npm install -g psi)
-    * sitemap based screenshots ,
+    * sitemap based screenshots
     * http://toolness.github.io/slowmo-js/
     * http://tools.css3.info/selectors-test/test.html
     * https://github.com/filamentgroup/grunt-criticalcss
