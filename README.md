@@ -5,7 +5,7 @@ This repository will hold all the documentation, examples and wikis about the fr
 
 ## Agenda - 2 to 3 hours
 
-1. **Intro & Recap previous week** (+- 15min)
+1. **Intro & Recap previous meeting** (+- 15min)
 2. **General problems and solutions, can be anything** (+- 30min)
 3. **Boilerplate remarks and improvements discussion** (+- 30min)
 4. **Topics, workshops and FAQS** (+- 90min)
