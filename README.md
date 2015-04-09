@@ -3,13 +3,13 @@ The CrossCheck Front-end initiative.
 
 This repository will hold all the documentation, examples and wikis about the front end initiative.
 
-## Agenda - 2 to 3 hours
+## Agenda - +-2 hours
 
 1. **Intro & Recap previous meeting** (+- 15min)
-2. **General problems and solutions, can be anything** (+- 30min)
-3. **Boilerplate remarks and improvements discussion** (+- 30min)
-4. **Topics, workshops and FAQS** (+- 90min)
-5. **Closing & Report** (+- 10min)
+2. **Ocelot milestones and future plans** (+- 15min)
+3. **General problems and situations discussion** (+- 15min)
+4. **Topics, talks, workshops** (+- 60min)
+5. **Assigning tasks & Closing** (+- 15min)
 
 
 ## Topic list
@@ -69,9 +69,11 @@ This repository will hold all the documentation, examples and wikis about the fr
 
 ## People list
 
-* Algeron Waterschoot
+* Michael Schuddings
 * Dries Decramer
 * Maarten Heip
 * Robbie Bardijn
 * Ruben Impens
-* Sarah Willem
+* Sarah Willem (out)
+* Charlotte Dooms
+* Sander Tirez
