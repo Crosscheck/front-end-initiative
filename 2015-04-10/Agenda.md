@@ -3,7 +3,8 @@
 ## Attendees
   * Robbie
   * Maarten
-  * Michael
+  * Dries
+  * Ruben
   * Charlotte
 
 ## Agenda
