@@ -15,8 +15,6 @@
 
 ### Talks
   * Default module list **[Maarten, Ruben]**
-  * Jquery the good vs the bad **[Robbie]**
-  * Breakpoints in js en css **[Sander]**
   * Libsass **[Dries]**
   * Bourbon **[Robbie]**
   * Susy **[Charlotte]**
