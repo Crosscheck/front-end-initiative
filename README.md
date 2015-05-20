@@ -1,4 +1,4 @@
-The CrossCheck Front-end initiative.
+The One-agency Front-end initiative.
 ====================
 
 This repository will hold all the documentation, examples and wikis about the front end initiative.
@@ -6,7 +6,7 @@ This repository will hold all the documentation, examples and wikis about the fr
 ## Agenda - +-2 hours
 
 1. **Intro & Recap previous meeting** (+- 15min)
-2. **Ocelot milestones and future plans** (+- 15min)
+2. **Milestones and future plans** (+- 15min)
 3. **General problems and situations discussion** (+- 15min)
 4. **Topics, talks, workshops** (+- 60min)
 5. **Assigning tasks & Closing** (+- 15min)
@@ -69,11 +69,15 @@ This repository will hold all the documentation, examples and wikis about the fr
 
 ## People list
 
-* Michael Schuddings
-* Dries Decramer
-* Maarten Heip
-* Robbie Bardijn
-* Ruben Impens
-* Sarah Willem (out)
+#### Front-end
 * Charlotte Dooms
+* Dries Decramer
+* Marc Holemans
+* Robbie Bardijn
 * Sander Tirez
+* Sarah Willem (out)
+
+#### Back-end
+* Michael Schuddings
+* Maarten Heip
+* Ruben Impens
