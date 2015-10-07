@@ -23,6 +23,7 @@
   * **A journey in jQuery** (upgrades from 1.4 to jQuery 3.0 and jQuery Compat 3.0 Alpha) (Robbie)
   * Reviewing external code. Theming coding standards documentation?
   * Theming in branches causes problems and additional bugs (see Pioneer) (Marc)
+  * **Libraries in D7 and D8** (Sander)
 
 ### FEI topiclist, new front-end frameworks.
 * Node v4 [link](https://nodejs.org/en/blog/release/v4.0.0/)
