@@ -25,6 +25,7 @@
   * **Theming in branches** causes problems and additional bugs (see Pioneer) (Marc)
   * **Libraries in D7 and D8** (Sander)
   * **Codereviews** Get codereviews into the process in Leuven
+  * **Mastering Twig** (Marc)
 
 ### FEI topiclist, new front-end frameworks.
 * Node v4 [link](https://nodejs.org/en/blog/release/v4.0.0/)
