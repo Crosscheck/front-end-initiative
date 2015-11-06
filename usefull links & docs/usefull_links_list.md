@@ -55,9 +55,3 @@
 
 
 Deze lijst is natuurlijk nooit compleet, dit is wel al een begin. Succes ermee.
-
-Hier ook onze Treehouse account, kan van pas komen:
-
-* [website](http://teamtreehouse.com)
-* user: frederik.vanoutryve@dotprojects.be
-* pass: ThinkVitamin123
